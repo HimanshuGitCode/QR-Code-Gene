@@ -1,0 +1,1 @@
+import{a as n}from"/build-v1/_shared/chunk-C6G2CU7L.js";import{e as t}from"/build-v1/_shared/chunk-Y24IREY5.js";var e=t(n());function p(){let o=window;return o._posthog?o._posthog:{capture:()=>{},register:()=>{}}}var c=(0,e.lazy)(()=>import("/build-v1/_shared/posthog-internal-WMCFT52V.js").then(o=>({default:o.PostHogInternal})));export{p as a};

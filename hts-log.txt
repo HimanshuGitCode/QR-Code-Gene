@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Oct 2024 00:26:09 at https://www.the-qrcode-generator.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.the-qrcode-generator.com/ -O1 "C:\Users\hs831\OneDrive\Desktop\qr code gene 22" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:26:10	Warning: 	Note: due to https://www.the-qrcode-generator.com remote robots.txt rules, links beginning with these path will be forbidden: /sign-in (see in the options to disable this)
+00:27:06	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.the-qrcode-generator.com/)
+00:27:08	Error: 	"Forbidden" (403) at link https://www.the-qrcode-generator.com/xmlrpc.php (from https://www.the-qrcode-generator.com/)
+00:27:08	Error: 	"Forbidden" (403) at link https://www.the-qrcode-generator.com/xmlrpc.php?rsd (from https://www.the-qrcode-generator.com/)
+00:31:39	Error: 	"Not Found" (404) at link https://www.uniqode.com/blog/wp-content/themes/tqrcg/cta/cbd-post-sidebar-top-bg-lg.png (from https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/style.css)
+00:31:39	Error: 	"Not Found" (404) at link https://www.uniqode.com/blog/wp-content/themes/tqrcg/cta/cbd-post-sidebar-top-bg-sm.png (from https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/style.css)
+00:35:17	Error: 	"Not Found" (404) at link https://www.the-qrcode-generator.com/blog/document.location (from https://www.the-qrcode-generator.com/blog/)
+00:35:17	Warning: 	Moved Permanently for https://www.the-qrcode-generator.com/blog/?p=13
+00:35:17	Warning: 	File has moved from https://www.the-qrcode-generator.com/blog/?p=13 to https://www.the-qrcode-generator.com/blog/buying-guide/the-ultimate-guide-to-choosing-the-best-qr-code-generator
+00:35:17	Error: 	"Not Found" (404) at link https://tqrcg.wpengine.com/wp-content/uploads/2024/06/tqrcg-1024x406.png (from https://www.the-qrcode-generator.com/blog/buying-guide/the-ultimate-guide-to-choosing-the-best-qr-code-generator)
+00:35:17	Error: 	"Not Found" (404) at link https://www.the-qrcode-generator.com/blog/buying-guide/document.location (from https://www.the-qrcode-generator.com/blog/buying-guide/the-ultimate-guide-to-choosing-the-best-qr-code-generator)
+00:36:27	Warning: 	Moved Permanently for https://www.the-qrcode-generator.com/blog/?p=123
+00:36:27	Warning: 	File has moved from https://www.the-qrcode-generator.com/blog/?p=123 to https://www.the-qrcode-generator.com/blog/basics/static-vs-dynamic-qr-code-difference
+00:36:33	Error: 	"Not Found" (404) at link https://www.the-qrcode-generator.com/blog/basics/document.location (from https://www.the-qrcode-generator.com/blog/basics/static-vs-dynamic-qr-code-difference)
+00:36:33	Warning: 	Moved Permanently for https://www.the-qrcode-generator.com/blog/?p=70
+00:36:33	Warning: 	File has moved from https://www.the-qrcode-generator.com/blog/?p=70 to https://www.the-qrcode-generator.com/blog/how-tos/how-to-create-qr-code-for-youtube
+00:36:33	Error: 	"Not Found" (404) at link https://www.the-qrcode-generator.com/blog/how-tos/document.location (from https://www.the-qrcode-generator.com/blog/how-tos/how-to-create-qr-code-for-youtube)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 25 seconds : 632 links scanned, 618 files written (30556430 bytes overall) [10585560 bytes received at 16936 bytes/sec], 26308808 bytes transferred using HTTP compression in 545 files, ratio 21%, 1.0 requests per connection
+(10 errors, 7 warnings, 0 messages)

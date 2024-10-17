@@ -1,0 +1,1 @@
+import{X as s,x as t}from"/build-v1/_shared/chunk-MJTHADAC.js";s();t.__MUI_LICENSE_INFO__=t.__MUI_LICENSE_INFO__||{key:void 0};var e=class{static getLicenseInfo(){return t.__MUI_LICENSE_INFO__}static getLicenseKey(){return e.getLicenseInfo().key}static setLicenseKey(_){let n=e.getLicenseInfo();n.key=_}};export{e as a};

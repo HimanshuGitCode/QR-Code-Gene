@@ -1,0 +1,1 @@
+import{a as d}from"/build-v1/_shared/chunk-C6G2CU7L.js";import{e as r}from"/build-v1/_shared/chunk-Y24IREY5.js";var e=r(d());function u(){return typeof window<"u"}function f(){let[t,n]=(0,e.useState)(!1);return(0,e.useEffect)(function(){n(!0)},[]),t}export{u as a,f as b};

@@ -1,0 +1,1 @@
+import{a as n}from"/build-v1/_shared/chunk-4OBWRSE6.js";import{w as l}from"/build-v1/_shared/chunk-N64KLDO5.js";import{e as i}from"/build-v1/_shared/chunk-Y24IREY5.js";var r=i(l());function o({children:e,fallback:t=null}){return n()?(0,r.jsx)(r.Fragment,{children:e()}):(0,r.jsx)(r.Fragment,{children:t})}export{o as a};

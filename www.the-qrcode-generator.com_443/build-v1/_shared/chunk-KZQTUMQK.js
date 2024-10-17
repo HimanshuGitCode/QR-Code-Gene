@@ -1,0 +1,1 @@
+import{a as n}from"/build-v1/_shared/chunk-O2LIEPTK.js";import{sa as r}from"/build-v1/_shared/chunk-KSDHKFAK.js";import{e}from"/build-v1/_shared/chunk-Y24IREY5.js";var t=e(n());function f(){return r().account.billing}export{f as a};
